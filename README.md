@@ -1,4 +1,8 @@
 # Data-Scrapping-From-Flipkart-Amazon
+
+https://www.youtube.com/watch?v=qjLmcVOhHMA
+Youtube Video Link
+
 ![a1](https://user-images.githubusercontent.com/123397686/226093918-c625e53e-3a04-4e15-9ec2-728ccc0b95ae.jpg)
 Data Source: Amazon.com
 ![a](https://user-images.githubusercontent.com/123397686/226094217-eb6ea702-3828-45b1-8a62-6fc3964927dd.jpg)
@@ -10,6 +14,7 @@ Amazon Product.CSV
 
 ![s2](https://user-images.githubusercontent.com/123397686/226093923-09a8f04f-c555-4827-a48b-435177de0ad1.jpg)
 ![s1](https://user-images.githubusercontent.com/123397686/226093927-50356e33-39fe-4ebd-8893-a1b84deae3c0.jpg)
+Project Live at: http://scrappers.pythonanywhere.com/amazon-products/scrapper/
 
 Description: 
 This is Scrapping project where products are scrapped from amazon.com
